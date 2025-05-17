@@ -5,8 +5,9 @@
 ### Project Vision
 ReadMaster AI is not just another Markdown editor—it's an intelligent documentation companion designed to transform how developers, technical writers, and content creators approach writing and managing technical documentation. By seamlessly integrating cutting-edge AI technologies with a user-friendly interface, the application aims to solve common pain points in documentation creation.
 
+![393950707-0656f51b-24b9-415d-8423-5796b30dda33](https://github.com/user-attachments/assets/e649e665-03a6-4447-8a92-5114a53099f4)
 
-![Readmaster](https://github.com/user-attachments/assets/0656f51b-24b9-415d-8423-5796b30dda33)
+
 
 
 ## 🏗️ Technical Architecture
